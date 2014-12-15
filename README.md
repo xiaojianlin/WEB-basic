@@ -1,7 +1,7 @@
 #WEB-basic
 
 
-![web](/)
+![web](/WEB.jpg)
 
 
 
