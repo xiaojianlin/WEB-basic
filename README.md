@@ -1,5 +1,10 @@
 #WEB-basic
 
+
+![web](/)
+
+
+
 #一：WEB
 
 ##（1）WEB简介：
@@ -78,19 +83,19 @@ ISO/IEC 15445:2000（“ISO HTML”）——2000年5月15日发布，基于严�
 
 ##（4）常用方法
 
-###分离样式和内容
+####分离样式和内容
 
 着重于描述网页结构的元素，例如标题、段落、引言和表格，而不是那些用于呈现的元素
 
-###使用HTTP发布HTML
+####使用HTTP发布HTML
 
 万维网主要由从服务器通过HTTP协议向浏览器发送的HTML文档组成。但是，HTTP也可以被用于传输HTML之外的数据，例如图像、声音和其他内容。
 
-###HTML格式的电子邮件
+####HTML格式的电子邮件
 
 一些图形模式下的电子邮件客户端支持HTML格式的邮件。
 
-###HTML超文本格式
+####HTML超文本格式
 
 例如link元素和可编辑的网页
 
@@ -119,29 +124,29 @@ HTML5将会取代1999年制定的HTML 4.01、XHTML 1.0标准，以期能在互�
 
 ##（2）特性
 
-###语义特性（Class：Semantic）：
+####语义特性（Class：Semantic）：
 
 HTML5赋予网页更好的意义和结构。更加丰富的标签将随着对RDFa的，微数据与微格式等方面的支持，构建对程序、对用户都更有价值的数据驱动的Web。
 
-###本地存储特性（Class: OFFLINE & STORAGE）：
+####本地存储特性（Class: OFFLINE & STORAGE）：
 
 基于HTML5开发的网页APP拥有更短的启动时间，更快的联网速度
 
-###设备兼容特性 (Class: DEVICE ACCESS)：
+####设备兼容特性 (Class: DEVICE ACCESS)：
 HTML5提供了前所未有的数据与应用接入开放接口。使外部应用可以直接与浏览器内部的数据直接相连，例如视频影音可直接与microphones及摄像头相联。
 
-###连接特性（Class: CONNECTIVITY）：
+####连接特性（Class: CONNECTIVITY）：
 
 更有效的连接工作效率，使得基于页面的实时聊天，更快速的网页游戏体验，更优化的在线交流得到了实现。HTML5拥有更有效的服务器推送技术
 
-###网页多媒体特性(Class: MULTIMEDIA)：
+####网页多媒体特性(Class: MULTIMEDIA)：
 
 支持网页端的Audio、Video等多媒体功能， 与网站自带的APPS，摄像头，影音功能相得益彰。
 
-###三维、图形及特效特性（Class: 3D, Graphics & Effects）：
+####三维、图形及特效特性（Class: 3D, Graphics & Effects）：
 
 基于SVG、Canvas、WebGL及CSS3的3D功能，用户会惊叹于在浏览器中，所呈现的惊人视觉效果。
 
-###性能与集成特性（Class: Performance & Integration）：
+####性能与集成特性（Class: Performance & Integration）：
 
 HTML5会通过XMLHttpRequest2等技术，解决以前的跨域等问题，帮助您的Web应用和网站在多样化的环境中更快速的工作。
